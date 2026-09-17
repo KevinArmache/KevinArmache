@@ -16,7 +16,7 @@
 
   <br/><br/>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Next.js+%7C+Flutter+%7C+TypeScript;Int%C3%A9gration+Web3+%26+Paiements+Crypto;Toujours+en+train+d%27apprendre+et+de+construire.)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Next.js+%7C+Flutter+%7C+AI;Int%C3%A9gration+Web3+%26+Paiements+Crypto;Toujours+en+train+d%27apprendre+et+de+construire.)
 
 </div>
 
